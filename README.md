@@ -22,3 +22,5 @@
 </p>
 
 <h1 align="center">MINHAS ESTATÍSTICAS</h1>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
