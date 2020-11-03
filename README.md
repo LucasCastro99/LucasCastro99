@@ -6,3 +6,8 @@
   <a href='https://nodejs.org/'><img title='NodeJS' alt='NodeJS Icon' width='75' src='https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/96b211be6f4eaf7d82990400c06d0e2787136a4d/icons/nodejs.svg'></a>
   <a href='https://www.python.org/'><img title='Python' alt='Python Icon' width='75' src='https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/96b211be6f4eaf7d82990400c06d0e2787136a4d/icons/python.svg'></a>
 </p>
+# SOBRE MIM
+# OCUPAÇÃO ATUAL
+# TECNOLOGIAS TRABALHADAS
+# REDES SOCIAIS
+# MINHAS ESTATÍSTICAS
