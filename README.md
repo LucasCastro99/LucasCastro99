@@ -23,4 +23,5 @@
 
 <h1 align="center">MINHAS ESTATÍSTICAS</h1>
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#1](https://github.com/LucasCastro99/Randat/issues/1) in [LucasCastro99/Randat](https://github.com/LucasCastro99/Randat)
 <!--END_SECTION:activity-->
