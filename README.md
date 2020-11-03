@@ -22,4 +22,3 @@
 </p>
 
 <h1 align="center">MINHAS ESTATÍSTICAS</h1>
-![Visitors Badge](https://gitwar.herokuapp.com/badge?username=LucasCastro99&color=green&style=for-the-badge&label=Visitas+no+Perfil)
