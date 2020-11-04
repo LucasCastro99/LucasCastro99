@@ -1,4 +1,4 @@
-<p align="center"><a href='https://github.com/LucasCastro99'><img width="100%" title='Banner do README' alt='README Banner' src='https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif'></a></p>
+<p align="center"><a href='https://github.com/LucasCastro99'><img width="100%" height="150" title='Banner do README' alt='README Banner' src='https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif'></a></p>
 
 <p align="center"><a href='https://github.com/LucasCastro99'><img title='Contador de Visitas do Perfil' alt='LucasCastro99 Visit Counter' src='https://komarev.com/ghpvc/?username=LucasCastro99&style=flat-square&color=brightgreen&label=VISITAS+NO+PERFIL'></a></p>
 
