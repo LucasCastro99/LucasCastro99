@@ -38,16 +38,12 @@ No momento, não tenho nenhuma ocupação profissional.
 
 <h2 align="center">:bar_chart: MINHAS ESTATÍSTICAS :bar_chart:</h2>
 <h4>:medal_sports: Linguagens e Qualidades</h4>
-<p align="center">
-
   <a href='https://github.com/LucasCastro99'><img title='Estatísticas do Perfil' alt='Lucascastro99 GitHub Stats' src='https://github-readme-stats.vercel.app/api?username=LucasCastro99&count_private=true&show_icons=true&theme=chartreuse-dark&locale=pt-br'></a>
-
-  <a href='https://github.com/LucasCastro99'><img title='Linguagens Mais Usadas' alt='LucasCastro99 Most Used Languages' src='https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCastro99&layout=compact&locale=pt-br'></a>
-
-</p>
+  <a href='https://github.com/LucasCastro99'><img title='Linguagens Mais Usadas' alt='LucasCastro99 Most Used Languages' width="455" height="195" src='https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCastro99&layout=compact&locale=pt-br'></a>
  
 <h4>:zap: Últimas Atividades</h4>
 <p align="center">
+  <a href='https://github.com/LucasCastro99'><img title='Contador de Visitas do Perfil' alt='LucasCastro99 Visit Counter' src='https://komarev.com/ghpvc/?username=LucasCastro99&style=flat-square&color=brightgreen&label=VISITAS+NO+PERFIL'></a>
   <!--START_SECTION:activity-->
   <!--END_SECTION:activity-->
 </p>
