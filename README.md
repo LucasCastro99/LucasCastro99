@@ -1,3 +1,7 @@
+<p align="center"><a href='https://github.com/LucasCastro99'><img width="100%" title='Banner do README' alt='README Banner' src='https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif'></a></p>
+
+<p align="center"><a href='https://github.com/LucasCastro99'><img title='Contador de Visitas do Perfil' alt='LucasCastro99 Visit Counter' src='https://komarev.com/ghpvc/?username=LucasCastro99&style=flat-square&color=brightgreen&label=VISITAS+NO+PERFIL'></a></p>
+
 <h2 align="center">:technologist: SOBRE MIM :technologist:</h2>
 Olá... <br>
 Meu nome é Lucas Castro, sou desenvolvedor de software, e esse é meu README.md simples, contanto um pouco sobre mim e sobre o que faço no mundo da tecnologia.
@@ -42,11 +46,7 @@ No momento, não tenho nenhuma ocupação profissional.
 <p align="center"><a href='https://github.com/LucasCastro99'><img title='Linguagens Mais Usadas' alt='LucasCastro99 Most Used Languages' src='https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCastro99&layout=compact&locale=pt-br'></a></p>
  
 <h4>:zap: Últimas Atividades</h4>
-<p align="center">
-  <a href='https://github.com/LucasCastro99'><img title='Contador de Visitas do Perfil' alt='LucasCastro99 Visit Counter' src='https://komarev.com/ghpvc/?username=LucasCastro99&style=flat-square&color=brightgreen&label=VISITAS+NO+PERFIL'></a>
 
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#1](https://github.com/LucasCastro99/Randat/issues/1) in [LucasCastro99/Randat](https://github.com/LucasCastro99/Randat)
 <!--END_SECTION:activity-->
-
-</p>
