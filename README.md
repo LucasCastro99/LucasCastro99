@@ -44,7 +44,9 @@ No momento, não tenho nenhuma ocupação profissional.
 <h4>:zap: Últimas Atividades</h4>
 <p align="center">
   <a href='https://github.com/LucasCastro99'><img title='Contador de Visitas do Perfil' alt='LucasCastro99 Visit Counter' src='https://komarev.com/ghpvc/?username=LucasCastro99&style=flat-square&color=brightgreen&label=VISITAS+NO+PERFIL'></a>
-  <!--START_SECTION:activity-->
+
+<!--START_SECTION:activity-->
 1. ❗️ Opened issue [#1](https://github.com/LucasCastro99/Randat/issues/1) in [LucasCastro99/Randat](https://github.com/LucasCastro99/Randat)
-  <!--END_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 </p>
