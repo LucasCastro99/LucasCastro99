@@ -48,5 +48,5 @@ No momento, não tenho nenhuma ocupação profissional.
 <h4>:zap: Últimas Atividades</h4>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/LucasCastro99/Randat/issues/1) in [LucasCastro99/Randat](https://github.com/LucasCastro99/Randat)
+1. 🗣 Commented on [#82](https://github.com/vuejs-br/docs-next/issues/82) in [vuejs-br/docs-next](https://github.com/vuejs-br/docs-next)
 <!--END_SECTION:activity-->
