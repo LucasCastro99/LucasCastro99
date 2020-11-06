@@ -42,8 +42,8 @@ No momento, não tenho nenhuma ocupação profissional.
 
 <h2 align="center">:bar_chart: MINHAS ESTATÍSTICAS :bar_chart:</h2>
 <h4>:medal_sports: Linguagens e Qualidades</h4>
-<p align="center"><a href='https://github.com/LucasCastro99'><img title='Estatísticas do Perfil' alt='Lucascastro99 GitHub Stats' src='https://github-readme-stats.vercel.app/api?username=LucasCastro99&count_private=true&show_icons=true&theme=chartreuse-dark&locale=pt-br'></a></p>
-<p align="center"><a href='https://github.com/LucasCastro99'><img title='Linguagens Mais Usadas' alt='LucasCastro99 Most Used Languages' src='https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCastro99&layout=compact&locale=pt-br'></a></p>
+<p align="center"><a href='https://github.com/LucasCastro99'><img title='Estatísticas do Perfil' alt='Lucascastro99 GitHub Stats' width="80%" src='https://github-readme-stats.vercel.app/api?username=LucasCastro99&count_private=true&show_icons=true&theme=chartreuse-dark&locale=pt-br'></a></p>
+<p align="center"><a href='https://github.com/LucasCastro99'><img title='Linguagens Mais Usadas' alt='LucasCastro99 Most Used Languages' width="80%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCastro99&layout=compact&locale=pt-br'></a></p>
  
 <h4>:zap: Últimas Atividades</h4>
 
