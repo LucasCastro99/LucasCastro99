@@ -48,3 +48,7 @@ No momento, não tenho nenhuma ocupação profissional.
 <h4>:zap: Últimas Atividades</h4>
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#206](https://github.com/vuejs-br/docs-next/pull/206) in [vuejs-br/docs-next](https://github.com/vuejs-br/docs-next)
+2. 🗣 Commented on [#82](https://github.com/vuejs-br/docs-next/issues/82) in [vuejs-br/docs-next](https://github.com/vuejs-br/docs-next)
+3. 🗣 Commented on [#82](https://github.com/vuejs-br/docs-next/issues/82) in [vuejs-br/docs-next](https://github.com/vuejs-br/docs-next)
+<!--END_SECTION:activity-->
