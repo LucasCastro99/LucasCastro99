@@ -51,11 +51,3 @@ No momento, não tenho nenhuma ocupação profissional.
 1. 🗣 Commented on [#86](https://github.com/vuejs-br/docs-next/issues/86) in [vuejs-br/docs-next](https://github.com/vuejs-br/docs-next)
 2. 🗣 Commented on [#87](https://github.com/vuejs-br/docs-next/issues/87) in [vuejs-br/docs-next](https://github.com/vuejs-br/docs-next)
 3. 🗣 Commented on [#76](https://github.com/vuejs-br/docs-next/issues/76) in [vuejs-br/docs-next](https://github.com/vuejs-br/docs-next)
-
-
-
-
-
-
-
-<!--END_SECTION:activity-->
