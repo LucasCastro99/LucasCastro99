@@ -49,4 +49,3 @@ No momento, não tenho nenhuma ocupação profissional.
 
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#206](https://github.com/vuejs-br/docs-next/pull/206) in [vuejs-br/docs-next](https://github.com/vuejs-br/docs-next)
-<!--END_SECTION:activity-->
