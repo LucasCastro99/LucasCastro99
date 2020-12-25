@@ -22,23 +22,34 @@ No momento, não tenho nenhuma ocupação profissional.
 <p align="center">
   <a href='https://en.wikipedia.org/wiki/HTML5'><img title='HTML' alt='HTML Icon' width='75' src='https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/96b211be6f4eaf7d82990400c06d0e2787136a4d/icons/html.svg'></a>
   <a href='https://en.wikipedia.org/wiki/CSS'><img title='CSS' alt='CSS Icon' width='75' src='https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/96b211be6f4eaf7d82990400c06d0e2787136a4d/icons/css.svg'></a>
+  <a href='https://sass-lang.com/'><img title='SASS' alt='SASS Icon' width='75' src='https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/96b211be6f4eaf7d82990400c06d0e2787136a4d/icons/sass.svg'></a>
   <a href='https://www.javascript.com/'><img title='JavaScript' alt='JavaScript Icon' width='75' src='https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/96b211be6f4eaf7d82990400c06d0e2787136a4d/icons/javascript.svg'></a>
-  <a href='https://www.xml.com/'><img title='XML' alt='XML Icon' width='75' src='https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/96b211be6f4eaf7d82990400c06d0e2787136a4d/icons/xml.svg'></a>
-  <a href='https://www.json.org/'><img title='JSON' alt='JSON Icon' width='75' src='https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/96b211be6f4eaf7d82990400c06d0e2787136a4d/icons/json.svg'></a>
   <a href='https://nodejs.org/'><img title='NodeJS' alt='NodeJS Icon' width='75' src='https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/96b211be6f4eaf7d82990400c06d0e2787136a4d/icons/nodejs.svg'></a>
+  <a href='https://git-scm.com/'><img title='Git' alt='Git Icon' width='75' src='https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/96b211be6f4eaf7d82990400c06d0e2787136a4d/icons/git.svg'></a>
+  <a href='https://www.xml.com/'><img title='XML' alt='XML Icon' width='75' src='https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/96b211be6f4eaf7d82990400c06d0e2787136a4d/icons/xml.svg'></a>
+  <br>
+  <a href='https://www.json.org/'><img title='JSON' alt='JSON Icon' width='75' src='https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/96b211be6f4eaf7d82990400c06d0e2787136a4d/icons/json.svg'></a>
   <a href='https://www.python.org/'><img title='Python' alt='Python Icon' width='75' src='https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/96b211be6f4eaf7d82990400c06d0e2787136a4d/icons/python.svg'></a>
+  <a href='https://www.djangoproject.com/'><img title='Django' alt='Django Icon' width='75' src='https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/96b211be6f4eaf7d82990400c06d0e2787136a4d/icons/django.svg'></a>
+  <a href='https://jupyter.org/'><img title='Jupyter' alt='Jupyter Icon' width='75' src='https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/96b211be6f4eaf7d82990400c06d0e2787136a4d/icons/jupyter.svg'></a>
+  <a href='https://www.typescriptlang.org/'><img title='TypeScript' alt='TypeScript Icon' width='75' src='https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/96b211be6f4eaf7d82990400c06d0e2787136a4d/icons/typescript.svg'></a>
+  <a href='https://vuejs.org/'><img title='Vue' alt='Vue Icon' width='75' src='https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/96b211be6f4eaf7d82990400c06d0e2787136a4d/icons/vue.svg'></a>
+  <a href='https://www.java.com/'><img title='Java' alt='Java Icon' width='75' src='https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/96b211be6f4eaf7d82990400c06d0e2787136a4d/icons/java.svg'></a>
 </p>
 
-<h2 align="center">:satellite: REDES SOCIAIS :satellite:</h2>
-<p align="center">
-  <a href='https://www.facebook.com/lucascastro99/'><img title='Facebook' alt='Facebook Icon' width='40' src='https://raw.githubusercontent.com/LucasCastro99/LucasCastro99/95d89a80ea3eef593d26787f8579417dccc8bb11/images/icons/facebook.svg'></a>
-  .....
-  <a href='https://www.instagram.com/lucascastro.99/'><img title='Instagram' alt='Instagram Icon' width='40' src='https://raw.githubusercontent.com/LucasCastro99/LucasCastro99/95d89a80ea3eef593d26787f8579417dccc8bb11/images/icons/instagram.svg'></a>
-  .....
-  <a href='https://www.linkedin.com/in/lucascastro99/'><img title='LinkedIn' alt='LinkedIn Icon' width='40' src='https://raw.githubusercontent.com/LucasCastro99/LucasCastro99/95d89a80ea3eef593d26787f8579417dccc8bb11/images/icons/linkedin.svg'></a>
-  .....
-  <a href='https:mailto:lucasacastro99@gmail.com'><img title='Email' alt='Email Icon' width='40' src='https://raw.githubusercontent.com/LucasCastro99/LucasCastro99/95d89a80ea3eef593d26787f8579417dccc8bb11/images/icons/gmail.svg'></a>
-</p>
+<h2 align="center">:satellite: PRESENÇA VIRTUAL :satellite:</h2>
+<h4>:busts_in_silhouette: Redes Sociais</h4>
+  <p align="center">
+    <a href='https://www.facebook.com/lucascastro99/'><img title='Facebook' alt='LucasCastro99 Facebook' width='150px' height='40px' src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white'></a>
+    <a href='https://www.instagram.com/lucascastro.99/'><img title='Instagram' alt='LucasCastro99 Instagram' width='150px' height='40px' src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'></a>
+    <a href='https://www.linkedin.com/in/lucascastro99/'><img title='LinkedIn' alt='LucasCastro99 LinkedIn' width='150px' height='40px' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>
+  </p>
+<h4>:telephone_receiver: Formas de Contato</h4>
+  <p align="center">
+    <a href='https://api.whatsapp.com/send?phone=559781153656&lang=pt_br'><img title='WhatsApp' alt='LucasCastro99 WhatsApp' src='https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/social/whatsapp.svg'></a>
+    <a href='https://t.me/LucasCastro99'><img title='Telegram' alt='LucasCastro99 Telegram' src='https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/social/telegram.svg'></a>
+    <a href='mailto:lucasacastro99@gmail.com'><img title='Gmail' alt='LucasCastro99 Gmail' src='https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/social/gmail.svg'></a>
+  </p>
 
 <h2 align="center">:bar_chart: MINHAS ESTATÍSTICAS :bar_chart:</h2>
 <h4>:medal_sports: Linguagens e Qualidades</h4>
@@ -53,4 +64,3 @@ No momento, não tenho nenhuma ocupação profissional.
 3. 🗣 Commented on [#76](https://github.com/vuejs-br/docs-next/issues/76) in [vuejs-br/docs-next](https://github.com/vuejs-br/docs-next)
 4. 🗣 Commented on [#83](https://github.com/vuejs-br/docs-next/issues/83) in [vuejs-br/docs-next](https://github.com/vuejs-br/docs-next)
 5. 🗣 Commented on [#68](https://github.com/vuejs-br/docs-next/issues/68) in [vuejs-br/docs-next](https://github.com/vuejs-br/docs-next)
-<!--END_SECTION:activity-->
